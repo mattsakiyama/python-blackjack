@@ -1,11 +1,9 @@
 # Blackjack in Python
 Matt Sakiyama
 
-This is a text-based command line blackjack game coded in Python. To play, download whichever program you wish to play (1-player or 2-player) to your device. Then, navigate in your terminal to the folder that contains the file (called either 1_player_blackjack.py or 2_player_blackjack.py) and run:
+This is a text-based command line blackjack game coded in Python. To play, download blackjack.py to your device. Then, navigate in your terminal to the folder that contains the file and run:
 
-python 1_player_blackjack.py  
-OR  
-python 2_player_blackjack.py  
+python blackjack.py   
 
 At the beginning of each new round, place a bet. Your goal is for the sum of the cards in your hand to be closer to 21 than the dealer's hand, without exceeding 21. Cards 2 through 9 are worth their assigned values, while 10 and the face cards (Jack, Queen, King) are all worth 10. Aces can be worth either 1 or 11, depending on your hand.
 
